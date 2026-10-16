@@ -1,0 +1,10 @@
+{
+  "name": "CricVision - Indian Cricket Face Identification",
+  "description": "Deep learning and CNN-powered computer vision system for facial identification of Indian cricket team players, feature maps visualization, and dataset exploration.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
